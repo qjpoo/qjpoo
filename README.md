@@ -1,6 +1,6 @@
 [![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=997&width=435&lines=%F0%9F%91%8B++Hi%2C+this+is+qjpoo's+Github!)](https://io10.top)
 
-I publish open source software here. All the repositories are at your disposal.
+Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
 
 ### 🌏 Some Links
 
@@ -28,5 +28,3 @@ I publish open source software here. All the repositories are at your disposal.
 ### 🦁 Top Languages
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=qjpoo&layout=compact&theme=dark)
-
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
