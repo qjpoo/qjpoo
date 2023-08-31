@@ -28,3 +28,5 @@ I publish open source software here. All the repositories are at your disposal.
 ### 🦁 Top Languages
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=qjpoo&layout=compact&theme=dark)
+
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
