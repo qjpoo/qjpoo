@@ -17,14 +17,14 @@ I publish open source software here. All the repositories are at your disposal.
 
 ### 📚 Skills
 
-![](https://icons.anoyi.com/?iconBgColor=f8fafc&icons=git,jquery,javascript,mongodb,postman,prometheus,typescript,figma,vscode,warp,bash,python,java,c,html5,css3,linux,docker,kubernetes,fastapi,flask,grafana,mysql,redis,nextjs,nginx,nodejs,react,spring,tailwindcss,terraform,consul)
+![](https://icons.anoyi.com/?iconBgColor=f8fafc&icons=git,kubernetes,mongodb,postman,prometheus,python,vscode,bash,c,html5,css3,linux,docker,fastapi,,grafana,mysql,redis,nginx,nodejs,apache,altermanage,consul)
 
 ### 😜 Commit Stats
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnoyiX&count_private=true&show_icons=true&theme=radical&show_owner=true)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qjpoo&count_private=true&show_icons=true&theme=radical&show_owner=true)
 
-![](https://github-profile-trophy.vercel.app/?username=AnoyiX&theme=radical&row=1)
+![](https://github-profile-trophy.vercel.app/?username=qjpoo&theme=radical&row=1)
 
 ### 🦁 Top Languages
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnoyiX&layout=compact&theme=dark)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=qjpoo&layout=compact&theme=dark)
