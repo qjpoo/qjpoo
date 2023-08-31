@@ -1,6 +1,6 @@
 [![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=997&width=435&lines=%F0%9F%91%8B++Hi%2C+this+is+qjpoo's+Github!)](https://io10.top)
 
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
+Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor, Thank You!🎉🎉
 
 ### 🌏 Some Links
 
